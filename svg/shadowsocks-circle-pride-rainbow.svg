@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg4"
+   version="1.1"
+   viewBox="0 0 200 200"
+   height="150pt"
+   width="150pt"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       height="1.0031425"
+       y="-0.00157125"
+       width="1.0019413"
+       x="-0.00097065635"
+       id="filter2982"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2984"
+         stdDeviation="0.31425" />
+    </filter>
+    <pattern
+       id="pattern2986"
+       patternTransform="translate(-62.189251,-0.31425081)"
+       height="200.6285"
+       width="324.37851"
+       patternUnits="userSpaceOnUse">
+      <g
+         id="g1350"
+         transform="matrix(0.41666667,0,0,0.41666667,0.31424999,0.31425001)"
+         style="display:inline;filter:url(#filter2982)">
+        <rect
+           id="rect1324"
+           height="480"
+           width="777"
+           fill="#750787"
+           x="0"
+           y="0" />
+        <rect
+           id="rect1326"
+           height="400"
+           width="777"
+           fill="#004dff"
+           x="0"
+           y="0" />
+        <rect
+           id="rect1328"
+           height="320"
+           width="777"
+           fill="#008026"
+           x="0"
+           y="0" />
+        <rect
+           id="rect1330"
+           height="240"
+           width="777"
+           fill="#ffed00"
+           x="0"
+           y="0" />
+        <rect
+           id="rect1332"
+           height="160"
+           width="777"
+           fill="#ff8c00"
+           x="0"
+           y="0" />
+        <rect
+           id="rect1334"
+           height="80"
+           width="777"
+           fill="#e40303"
+           x="0"
+           y="0" />
+      </g>
+    </pattern>
+  </defs>
+  <rect
+     id="rect2995"
+     y="-0.3142508"
+     x="-62.189251"
+     height="200.62849"
+     width="324.37851"
+     style="display:none;opacity:0.999;fill:url(#pattern2986);stroke:none" />
+  <path
+     id="path2"
+     d="m 156.7625,47.662486 -24,100.800024 c 0,0 -37.000003,-10.5 -50.500004,-15 L 126.2625,79.862486 65.262496,128.06251 24.562495,114.66249 Z m -74.200004,97.300024 15.400001,5 -15.900001,23.7 z"
+     fill="#1a7dc0"
+     style="fill:url(#pattern2986);fill-opacity:1.0" />
+  <circle
+     r="95.000038"
+     cy="100"
+     cx="100"
+     id="path835"
+     style="fill:none;fill-opacity:1;stroke:url(#pattern2986);stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
